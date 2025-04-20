@@ -38,6 +38,5 @@ A machine learning project comparing different evaluation approaches for a linea
 # bash
 
 git clone https://github.com/Soyebsoyeb/ML.git
-cd ML/dog-cat-classifier
 pip install -r requirements.txt
 jupyter lab  # or jupyter notebook
